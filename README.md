@@ -16,4 +16,4 @@ The **ChatGPT Clone** is a simple web application that mimics the functionality 
 - **JavaScript**: Handles user input, communicates with the API, and dynamically displays responses.
 - **RapidAPI**: Used to send and retrieve AI-generated responses via the API.
 
-![GIF](Chat.gif)# ChatGPT-Clone
+![GIF](Chat.gif)
